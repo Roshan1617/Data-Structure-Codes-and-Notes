@@ -1,3 +1,4 @@
+package Maths;
 /**
  * prime_number
  */
